@@ -1,7 +1,8 @@
 # No zasa daco treba pisat
 
-neviem preco a co tu uz mam davat ale same riadky menim
+neviem preco a co tu uz mam davat ale same riadky menim 
 
-Tento riadok som nespravil v pocitaci cez VIM, yeah. tu este dodam zmenu
-Dam tomu este jeden pokus
+Tento riadok som nespravil v pocitaci cez VIM, yeah. tu este dodam zmenu 
+Dam tomu este jeden pokus 
 
+ 
