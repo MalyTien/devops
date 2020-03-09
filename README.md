@@ -13,4 +13,4 @@ This is **BOLT** txt
 >  *Everything* is going according to **plan**.
 
 * obrazocek musi byt
-![Tux, the Linux mascot](/c/Users/student/Documents/GitHub/tux.png)
+![Tux, the Linux mascot](/assets/images/tux.png)
