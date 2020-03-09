@@ -1,6 +1,7 @@
 # No zasa daco treba pisat
 
-Tento riadok som nespravil v pocitaci cez VIM, yeah.
+neviem preco a co tu uz mam davat ale same riadky menim
+
+Tento riadok som nespravil v pocitaci cez VIM, yeah. tu este dodam zmenu
 Dam tomu este jeden pokus
 
-No a tento subor ako druhy zaskodnik editujem lokalne
