@@ -1,6 +1,6 @@
 # No zasa daco treba pisat
 
-Toto je novy text aby uloha mala aspon nieco.
-
-Tento riadok som spravil v pocitaci cez VIM, yeah.
+Tento riadok som nespravil v pocitaci cez VIM, yeah.
 Dam tomu este jeden pokus
+
+No a tento subor ako druhy zaskodnik editujem lokalne
