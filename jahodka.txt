@@ -1,6 +1,8 @@
 # No zasa daco treba pisat
 
-Tento riadok som nespravil v pocitaci cez VIM, yeah.
-Dam tomu este jeden pokus
+vratim si do povednej verzie riadocek
 
-No a tento subor ako druhy zaskodnik editujem lokalne
+Tento riadok som nespravil v pocitaci cez VIM, yeah.
+Dam tomu este jeden pokus - a mozno aj druhy nie jeden len
+
+editujem lokalne
