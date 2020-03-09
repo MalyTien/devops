@@ -4,3 +4,5 @@ Toto je novy text aby uloha mala aspon nieco.
 
 Tento riadok som spravil v pocitaci cez VIM, yeah.
 Dam tomu este jeden pokus
+
+som tu zaskodnik a musim nieco pomenit, tak menim.
