@@ -7,3 +7,5 @@
 **Pismenko** **Pismenko**
 
 * Rataratrak
+
+![Malina](https://zahradnictvo.boba-eshop.sk/298-home_default/malina-cervena-willamette.jpg)
