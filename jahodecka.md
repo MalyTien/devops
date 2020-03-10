@@ -11,3 +11,5 @@ Tento riadok som nespravil v pocitaci cez VIM, yeah.
 Dam tomu este jeden pokus - a mozno aj druhy nie jeden len
 
 Pokus cislo 3, zacal dalsi den, ... kto by to bol povedal? :D
+
+![Jahoda](https://zahradnictvo.boba-eshop.sk/275-large_default/jahoda-selva-staloplodiaca.jpg)
